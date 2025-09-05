@@ -484,7 +484,6 @@ h2 {
   box-sizing: border-box;
   background-color: white;
   border: none;
-  border-radius: 3px;
   outline: none;
 }
 .contact-text {
@@ -505,7 +504,6 @@ textarea {
   line-height: 1.5rem;
   background-color: white;
   border: none;
-  border-radius: 3px;
   outline: none;
 }
 .send-button {
