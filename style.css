@@ -23,27 +23,14 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
 }
+a,
 button,
-.send-button,
-.white-button,
-.black-button,
-.menu-on,
-.menu-off,
-.cross,
-a {
+img {
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-}
-input,
-textarea {
-  -webkit-user-select: auto;
-  -khtml-user-select: auto;
-  -moz-user-select: auto;
-  -ms-user-select: auto;
-  user-select: auto;
 }
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
@@ -54,7 +41,6 @@ input:-webkit-autofill:active {
   box-shadow: 0 0 0 30px white inset !important;
   background-color: white !important;
 }
-
 input:-moz-autofill,
 input:-moz-autofill:hover,
 input:-moz-autofill:focus {
