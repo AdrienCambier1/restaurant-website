@@ -238,6 +238,7 @@ a {
   padding: 2rem 5%;
   box-sizing: border-box;
   justify-content: center;
+  overflow: hidden;
 }
 .title-section {
   display: flex;
@@ -308,6 +309,7 @@ h1 {
   box-sizing: border-box;
   justify-content: center;
   flex-direction: column;
+  overflow: hidden;
 }
 .black-section h1 {
   color: white;
@@ -424,6 +426,7 @@ h2 {
   padding: 2rem 5%;
   padding-bottom: 0;
   box-sizing: border-box;
+  overflow: hidden;
 }
 .image-section .text {
   text-align: center;
