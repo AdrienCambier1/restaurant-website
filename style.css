@@ -124,7 +124,6 @@ header {
 }
 .social-links svg {
   width: 2.25rem;
-  height: 2.25rem;
 }
 .title-page {
   position: absolute;
@@ -531,7 +530,6 @@ textarea {
   align-items: center;
 }
 .flex svg {
-  height: 2rem;
   width: 1.5rem;
   margin-right: 1rem;
 }
